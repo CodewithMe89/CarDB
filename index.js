@@ -87,6 +87,15 @@ app.post('/cars/:id', async(req,res) =>
         res.status(500).json({message: err.message})
     }
 })
+
+app.get('/cart/:id',async(req,res)=> {
+const id = req.params.id;
+const cartItem = await Cart.findById(id);
+if(!cartItem){
+    return res.status(404).json({message:"Cart item not found"})
+}
+res.status(200).json({message:"Cart item fetched Successfully !", cartItem})
+})
 app.listen(port,()=> {
     console.log('Server is running on port ',port)
 })
