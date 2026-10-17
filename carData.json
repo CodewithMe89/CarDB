@@ -1,0 +1,92 @@
+[
+  {
+    "model": "Sedan",
+    "name": "Honda City",
+    "color": "White",
+    "price": 1450000
+  },
+  {
+    "model": "SUV",
+    "name": "Hyundai Creta",
+    "color": "Black",
+    "price": 1850000
+  },
+  {
+    "model": "Hatchback",
+    "name": "Maruti Swift",
+    "color": "Red",
+    "price": 820000
+  },
+  {
+    "model": "SUV",
+    "name": "Mahindra Scorpio N",
+    "color": "Silver",
+    "price": 2150000
+  },
+  {
+    "model": "Sedan",
+    "name": "Hyundai Verna",
+    "color": "Blue",
+    "price": 1650000
+  },
+  {
+    "model": "SUV",
+    "name": "Toyota Fortuner",
+    "color": "White",
+    "price": 4200000
+  },
+  {
+    "model": "Hatchback",
+    "name": "Tata Altroz",
+    "color": "Grey",
+    "price": 950000
+  },
+  {
+    "model": "Compact SUV",
+    "name": "Kia Sonet",
+    "color": "Orange",
+    "price": 1380000
+  },
+  {
+    "model": "Sedan",
+    "name": "Skoda Slavia",
+    "color": "Silver",
+    "price": 1780000
+  },
+  {
+    "model": "SUV",
+    "name": "MG Hector",
+    "color": "Green",
+    "price": 2350000
+  },
+  {
+    "model": "Electric",
+    "name": "Tata Nexon EV",
+    "color": "Blue",
+    "price": 1750000
+  },
+  {
+    "model": "Electric",
+    "name": "MG Comet EV",
+    "color": "Yellow",
+    "price": 890000
+  },
+  {
+    "model": "SUV",
+    "name": "Toyota Hyryder",
+    "color": "Brown",
+    "price": 1950000
+  },
+  {
+    "model": "Sedan",
+    "name": "Honda Amaze",
+    "color": "Maroon",
+    "price": 980000
+  },
+  {
+    "model": "Hatchback",
+    "name": "Renault Kwid",
+    "color": "White",
+    "price": 620000
+  }
+]
